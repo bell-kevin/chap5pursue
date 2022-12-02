@@ -11,6 +11,14 @@ Complete the following from the fifth chapter's Pursue section on page 166:
 2. Go through each of the step sequences in this chapter again, coming up with your own queries to execute (that demonstrate
 similar concepts as those in the steps).
 
+![p](https://github.com/bell-kevin/chap5pursue/blob/main/SQL-Sample-Database-Schema.png)
+
+https://www.sqltutorial.org/sql-sample-database/
+
+https://www.sqltutorial.org/wp-content/uploads/2020/04/mysql.txt
+
+https://www.sqltutorial.org/wp-content/uploads/2020/04/mysql-data.txt
+
 Submission: Submit at least 5 screenshots that document your work in a .zip file
 
 #1
@@ -32,6 +40,8 @@ Submission: Submit at least 5 screenshots that document your work in a .zip file
 #5
 
 ![p](https://github.com/bell-kevin/chap5pursue/blob/main/chap5pursue/five.PNG)
+
+
 
 == We're Using GitHub Under Protest ==
 
