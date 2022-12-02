@@ -41,7 +41,9 @@ Submission: Submit at least 5 screenshots that document your work in a .zip file
 
 ![p](https://github.com/bell-kevin/chap5pursue/blob/main/chap5pursue/five.PNG)
 
+SQL not showing in Language Statistics #348 see link below:
 
+https://github.com/github/markup/issues/348
 
 == We're Using GitHub Under Protest ==
 
