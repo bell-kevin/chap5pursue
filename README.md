@@ -13,13 +13,23 @@ similar concepts as those in the steps).
 
 Submission: Submit at least 5 screenshots that document your work in a .zip file
 
+#1
+
 ![p](https://github.com/bell-kevin/chap5pursue/blob/main/chap5pursue/one.PNG)
+
+#2
 
 ![p](https://github.com/bell-kevin/chap5pursue/blob/main/chap5pursue/two.PNG)
 
+#3
+
 ![p](https://github.com/bell-kevin/chap5pursue/blob/main/chap5pursue/three.PNG)
 
+#4
+
 ![p](https://github.com/bell-kevin/chap5pursue/blob/main/chap5pursue/four.PNG)
+
+#5
 
 ![p](https://github.com/bell-kevin/chap5pursue/blob/main/chap5pursue/five.PNG)
 
