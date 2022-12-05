@@ -11,6 +11,8 @@ Complete the following from the fifth chapter's Pursue section on page 166:
 2. Go through each of the step sequences in this chapter again, coming up with your own queries to execute (that demonstrate
 similar concepts as those in the steps).
 
+![p](https://github.com/bell-kevin/chap5pursue/blob/main/diagram.PNG)
+
 ![p](https://github.com/bell-kevin/chap5pursue/blob/main/SQL-Sample-Database-Schema.png)
 
 https://www.sqltutorial.org/sql-sample-database/
